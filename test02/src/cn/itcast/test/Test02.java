@@ -6,5 +6,6 @@ public class Test02 {
 		System.out.println(222);
 		System.out.println(333);
 		System.out.println(555);
+		System.err.println(444);
 	}
 }
